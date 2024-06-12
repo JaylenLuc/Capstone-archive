@@ -1,4 +1,4 @@
-# Capstone-archive
+# Capstone-archive (This is a mirror repo of the dual repos for archive purposes)
 
 Link to working Git Repos (as of 6/12/24): [Server](https://github.com/JaylenLuc/MNDYRR-bot) , [Client](https://github.com/JaylenLuc/mndyrr_frontend)
 
