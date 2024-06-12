@@ -1,2 +1,2 @@
 # Capstone-archive
-For MNDYRR
+For MNDYRR, a RAG full stack empathetic chat bot
